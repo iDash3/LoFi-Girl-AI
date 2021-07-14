@@ -20,8 +20,15 @@ and apply this data to train the first model.
 
 It is unknown to me if this will work but if it does you could recreate a crappier version of almost any generic pop song as well.
 
+### Weights
+If you do not want to train the model for hours, I have provided a set of pre trained weights.
+
+### Run
 Tested in a python virtual env (pipenv) run:
 ```
 pipenv install
 pipenv shell
 ```
+
+#### Results
+Finally, to see some actual output, check the result dir.
