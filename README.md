@@ -9,7 +9,7 @@ Currently the model takes MIDI files with the piano melody as input and uses the
 - [ ] Give it structre (start, end, loop)
 - [ ] Add drums 
 
-To achieve this most likely a new model has to be made. 
+To achieve this most likely a second model has to be made. 
 A new model that:
 
 - [ ] Can translate already recorded music into notes by instrument 
